@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Implementations for Experts
-nav_order: 3
+title: Experts
+nav_order: 2
 parent: Implementations
 has_children: false
 permalink: /docs/impl/experts

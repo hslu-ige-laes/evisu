@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Overview
+title: Home
 nav_order: 1
 description: "EVISU - Documentation"
 permalink: /
-has_toc: true
 ---
 # evisu - Energy Data Visualization bottom up
 > The project is driven by the following questions
@@ -13,4 +12,4 @@ has_toc: true
 > - How can the large amounts of data on energy consumption be translated and represented in effective information units?
 > - What requirements for technology and design can be derived from this.
 
-
+## Table of contents?

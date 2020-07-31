@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Implementations for Laymen
-nav_order: 3
+title: Laymen
+nav_order: 1
 parent: Implementations
 has_children: false
 permalink: /docs/impl/laymen
