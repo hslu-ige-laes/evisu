@@ -41,7 +41,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "lcm on GitHub":
+  "evisu on GitHub":
     - "//github.com/hslu-ige-laes/evisu"
 
 # Makes Aux links open in a new tab. Default is false
