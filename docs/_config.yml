@@ -7,7 +7,7 @@ permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/lcm.png"
+# logo: "/assets/images/evisu.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -42,7 +42,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "lcm on GitHub":
-    - "//github.com/hslu-ige-laes/lcm"
+    - "//github.com/hslu-ige-laes/evisu"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
