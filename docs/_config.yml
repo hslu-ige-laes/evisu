@@ -1,6 +1,6 @@
-title: lcm
-description: Low Cost Monitoring - Documentation
-baseurl: "/lcm" # the subpath of your site, e.g. /blog
+title: evisu
+description: Energy Data Visualizations
+baseurl: "/evisu" # the subpath of your site, e.g. /blog
 url: "https://hslu-ige-laes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
